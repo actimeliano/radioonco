@@ -112,3 +112,16 @@ p { margin: 0 0 12px; }
 	h1 { font-size: 34px; }
 	h2 { font-size: 26px; }
 }
+
+/* Contact form */
+.contact-form { margin-top: 12px; }
+.form-field { display: flex; flex-direction: column; margin-bottom: 12px; }
+.form-field label { font-weight: 600; margin-bottom: 6px; }
+.form-field input, .form-field textarea {
+	padding: 10px 12px;
+	border: 1px solid var(--neutral-100);
+	border-radius: 8px;
+	font: inherit;
+}
+.form-actions { display: flex; align-items: center; gap: 12px; }
+.form-status { font-size: 14px; color: var(--neutral-600); }
