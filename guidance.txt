@@ -1,0 +1,52 @@
+For guidance : Plano Comercial & Tabela de Serviços —
+Radio-Oncologia (Portugal)
+Data: 19 September 2025
+Sumário Executivo
+Oferta modular de serviços de Radio-Oncologia para clínicas e hospitais em Portugal, com foco em
+consultoria B2B (teleconsulta, QA/peer-review, protocolos, auditorias e formação) e um canal B2C
+(consultas e segundas opiniões) quando aplicável. Estrutura de preços compatível com o mercado
+privado português, distinguindo atos médicos (isentos de IVA) de consultoria/QA/formação (+IVA).
+Oferta de Serviços
+B2B — Clínicas & Hospitais
+● Cobertura de consulta externa e teleconsultas (primeiras consultas, follow-ups, segundas opiniões).
+● Tumor Boards/MDT (moderação/participação) com relatório pós-MDT.
+● QA/Peer-review de contornos e planos (pré-tratamento ou retrospectivo).
+● Atualização de protocolos clínicos por patologia (hipofracionamento, consentimentos, pathways).
+● Auditorias QUATRO■lite (gap analysis + plano de 90 dias).
+● Formação/Workshops (contouring por tumor site; QA; braquiterapia).
+● Onboarding de serviços novos (SOPs, listas de verificação, integração de fluxos).
+B2C — Doentes (teleconsulta e presencial)
+● Teleconsulta inicial e seguimento.
+● Segunda opinião com relatório estruturado.
+● Navegação oncológica (coordenação com equipa local, check-ins assíncronos).
+Tabela de Preços — B2C (Atos médicos: isentos de IVA)
+Serviço Inclui Preço recomendado Notas
+Teleconsulta inicial (30–40 min) Avaliação clínica básica; revisão sumária de exames€90–€120
+Seguimento (20–25 min) Ajustes terapêuticos; gestão de efeitos laterais; dúvidas€70–€90
+Segunda Opinião (45–60 min) Revisão de relatórios/imagiologia + relatório estruturado €160–€220
+Relatório adicional Carta para médico assistente/seguro (sem consulta) €40–€70
+Navegação oncológica — 30 dias Coordenação com equipa local; check-ins assíncronos €200–€300
+Navegação oncológica — 60 dias Idem, período prolongado €350–€520
+Tabela de Preços — B2B (Consultoria/QA/Formação: + IVA 23%)
+Serviço Inclui Preço recomendado Observações
+Retainer “Cobertura Essencial” (mensal) 4–8 h/semana teleconsulta; 1 MDT/mês; SLA 48 h €1.200–€2.400/mês Ajustar por volume/horário
+MDT/Tumor Board 60–90 min + minuta/decisões €180–€300/sessão
+Peer■review por caso Checklist + parecer escrito €55 (3D) · €85 (IMRT/VMAT) · €120 (SBRT) Majorar urgências +40%
+Protocolos por patologia Revisão ESTRO/ESMO/ACROP; PDF €450–€1.200 6–12 h trabalho técnico
+Auditoria QUATRO■lite 2–3 dias on■site + 1 dia relatório €3.500–€7.500
+Formação/Workshop Half■day (3–4 h) / Full■day €600–€900 / €1.000–€1.600
+Dia presencial (clínica) 6–8 h in loco €600–€900/dia + despesas
+Add■ons & Políticas
+● Relatório em 24 h: +€40 por caso.
+● SLA urgente (<24 h): +40%.
+● Cancelamentos <24 h (B2C): cobrança de 50%.
+● Retainers ≥12 meses: desconto de 10%.
+Compliance (PT/EU) — Resumo Operacional
+● Telemedicina: cumprir orientações DGS/ERS; consentimento informado específico; registos
+eletrónicos obrigatórios.
+● IVA: atos médicos (B2C) isentos nos termos do art.º 9.º do CIVA; consultoria/QA/formação (B2B)
+normalmente sujeitos a IVA (23%).
+● RGPD: dados de saúde (categoria especial); base legal adequada; DPAs com fornecedores; hosting
+UE; logs mínimos; política de privacidade e consentimentos arquivados.
+● Se o atendimento a doentes ocorrer em infraestruturas próprias, confirmar registo/licenciamento
+junto da ERS (SRER)
