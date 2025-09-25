@@ -91,10 +91,31 @@
 			<div class="container">
 				<h2>Contactos</h2>
 				<p><strong>Dra. Carolina Ferreira</strong> — CF Radio-Oncologia</p>
-				<ul class="contact-list">
-					<li>Email: <a href="mailto:contacto@cfradiooncologia.pt">contacto@cfradiooncologia.pt</a></li>
-					<li>Telefone: +351 XXX XXX XXX</li>
-				</ul>
+				<form id="contact-form" class="contact-form" novalidate>
+					<div class="grid grid-3">
+						<div class="form-field">
+							<label for="name">Nome</label>
+							<input type="text" id="name" name="name" required>
+						</div>
+						<div class="form-field">
+							<label for="email">Email</label>
+							<input type="email" id="email" name="email" required>
+						</div>
+						<div class="form-field">
+							<label for="subject">Assunto</label>
+							<input type="text" id="subject" name="subject" required>
+						</div>
+					</div>
+					<div class="form-field">
+						<label for="message">Mensagem</label>
+						<textarea id="message" name="message" rows="6" required></textarea>
+					</div>
+					<input type="text" id="organization" name="organization" autocomplete="off" style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden" tabindex="-1" aria-hidden="true">
+					<div class="form-actions">
+						<button type="submit" class="btn btn-accent" id="submit-btn">Enviar</button>
+						<span id="form-status" class="form-status" role="status" aria-live="polite"></span>
+					</div>
+				</form>
 			</div>
 		</section>
 	</main>
