@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="80" viewBox="0 0 240 80" role="img" aria-label="CF Radio-Oncologia">
+  <defs>
+    <style>
+      .bg { fill: #0B3C5D; }
+      .text { fill: #FFFFFF; font-family: Inter, Arial, sans-serif; font-weight: 700; }
+      .accent { fill: #2E9CCA; }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="240" height="80" rx="8"/>
+  <text class="text" x="24" y="48" font-size="28">CF Radio-Oncologia</text>
+  <circle class="accent" cx="210" cy="20" r="6"/>
+</svg>
